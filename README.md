@@ -23,7 +23,7 @@ Phail will output color-coded errors.
 
 Other features include grouping similar errors together and calculating statistics.
 
-![Screenshot of Results](https://shaggy8871.github.com/img/preview.png)
+![Screenshot of Results](https://github.com/shaggy8871/phail/blob/master/img/preview.png?raw=true)
 
 ### Contact
 * Twitter: http://twitter.com/johnginsberg
